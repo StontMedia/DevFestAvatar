@@ -9,7 +9,7 @@
 
 .grid-horizontal-container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
   grid-gap: 10px;
   
 }

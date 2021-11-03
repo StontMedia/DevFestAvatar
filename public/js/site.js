@@ -16,7 +16,7 @@ var templateMaxSize = 1080;
 $(document).ready(function () {
 
     ShowCircle(false);
-    $.getJSON("https://api.countapi.xyz/get/devfestavatar.web.app/counts", function (response) {
+    $.getJSON("https://api.countapi.xyz/get/devfestvol21.web.app/counts", function (response) {
         $("#foot").text(response.value);
     });
 
@@ -111,7 +111,7 @@ $(document).ready(function () {
                 $('#downloadimg').get(0).click();
                 toastr.success('Downloading');
 
-                $.getJSON("https://api.countapi.xyz/hit/devfestavatar.web.app/counts", function (response) {
+                $.getJSON("https://api.countapi.xyz/hit/devfestvol21.web.app/counts", function (response) {
                     $("#foot").text(response.value);
                 });
             });
