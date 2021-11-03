@@ -6,7 +6,7 @@ This project creates Avatars for #DevFest events.
 Simply clone the project and add the features you want. Create a PR so I can merge. 
 
 ### Final Url:
-Find the url at https://devfestavatar.web.app
+Find the url at https://devfestvol21.web.app/
 
 ### 2021 Contributors
 * David Oluwabusayo (GDG Ado-Ekiti Lead)
